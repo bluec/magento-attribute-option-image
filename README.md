@@ -17,9 +17,10 @@ This is a fork from [aligent](https://github.com/aligent/magento-attribute-optio
 
 Download package manually:
 
-* Download latest version [here](https://github.com/bluec/magento-attribute-option-image/downloads)
+* Download latest version
 * Unzip in Magento root folder
 * Clean cache
+* Log out of admin
 
 ## Usage
 
